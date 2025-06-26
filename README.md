@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi there 👋, I’m Arash Sidhu
 
-<!--
-**arashsidhu/arashsidhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a recent graduate from Cal Poly SLO with a degree in Information Systems. I recently obtained my CCNA certification and I am actively building on my technical foundation by expanding my skills in IT, with a focus on networking, cloud computing, and cybersecurity.
 
-Here are some ideas to get you started:
+I'm also currently exploring opportunities in IT, cloud, or cybersecurity where I can grow and contribute to impactful technical solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔗 Connect with me
+
+- [LinkedIn](https://www.linkedin.com/in/arashsidhu)
+- [GitHub](https://github.com/arashsidhu)
+- [Email](mailto:arashdeepsidhu10@gmail.com) 
+
+Thanks for visiting!
