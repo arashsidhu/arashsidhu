@@ -2,7 +2,7 @@
 
 I'm a recent graduate from Cal Poly SLO with a degree in Information Systems. I recently obtained my CCNA certification and I am actively building on my technical foundation by expanding my skills in IT, with a focus on networking, cloud computing, and cybersecurity.
 
-I'm also currently exploring opportunities in IT, cloud, or cybersecurity where I can grow and contribute to impactful technical solutions.
+I'm also currently exploring opportunities in IT, cloud, or cybersecurity where I can grow and contribute to impactful technical solutions. If you have any advice or simply want to chat please do not hesitate to reach out!
 
 ### 🔗 Connect with me
 
